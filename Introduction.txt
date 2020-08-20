@@ -1,5 +1,0 @@
-Accidents have been a major contributor in the number of deaths per year especially in densely populated cities. More severe the accident, more are the chances of the person dying. What can we do to prevent the loss of lives in accidents? 
-
-If, by the means of data analysis, we are able to create a model that would predict the severity of an accident by taking into factor certain ‘variables’ which can influence the severity, for instance, the severity factor of an accident might increase in night-time as opposed to that in daytime,  then we can be prepared beforehand by knowing probability of the severity based on the data for that particular area. The example dataset that is provided to us consists of such variables that can help predicting the severity of accident. In simple words by knowing the conditions of traffic of a particular area, the model will predict the severity of an accident.
-
-
